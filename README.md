@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Sentiment Analysis and <a href="https://social-media-app-by-upendra.vercel.app/" target="_blank">Social Media App</a>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **c++,java,python,web development**
 
 - 📫 How to reach me **mishramanas2006@gmail.com**
 
