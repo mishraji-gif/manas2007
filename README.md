@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mishramanas2006@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14gzVEtwFjCk1w_kql-H5pCye7DOyiAcM/view?usp=drivesdk "target="_blank">Resume</a>
 
 - 💻 Personal <a href="https://upendra2001.github.io/Portfolio/" target="_blank">Portfolio </a>
 
